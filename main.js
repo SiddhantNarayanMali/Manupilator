@@ -29,4 +29,5 @@ function posing(r)
 
 function draw()
 {
+    Canvas.background(red);
 }
